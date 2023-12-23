@@ -17,7 +17,7 @@ function App() {
     // console.log(cnt);
   }
 
-  const reduceValue = () => { 
+  const reduceValue = () => {
     setCnt(cnt-1)
   }
 
